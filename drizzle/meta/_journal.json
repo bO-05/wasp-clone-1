@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1760543709653,
+      "tag": "0000_milky_celestials",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1760543853433,
+      "tag": "0001_medical_nightcrawler",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1760552786669,
+      "tag": "0002_woozy_valkyrie",
+      "breakpoints": true
+    }
+  ]
+}
